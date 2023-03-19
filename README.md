@@ -3,6 +3,7 @@ This is a combination of three diferrent JavaScript challenges namely
 * Grade Generator 
 * Speed Detector 
 * Net Salary 
+
 This projects uses node js to get users input
 
 ## Requirements
